@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/keiwata/workspaces/2019/clang/cpp_challenge/q032/main.cpp
+iostream
+-
+pascal.h
+/Users/keiwata/workspaces/2019/clang/cpp_challenge/q032/pascal.h
+
+/Users/keiwata/workspaces/2019/clang/cpp_challenge/q032/pascal.h
+cstdint
+-
+algorithm
+-
+vector
+-
+iostream
+-
+iomanip
+-
+
